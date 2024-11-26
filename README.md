@@ -29,6 +29,6 @@ The study involves:
 ---
 
 ## Usage
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/anibalpires4/cnn-maxpool-performance.git
+   git clone https://github.com/anibalpires4/Impact-of-Max-Pooling-on-CNN-Performance.git
